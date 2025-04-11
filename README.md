@@ -1,4 +1,7 @@
-# SCM_HW1_Abdullah
+## Best Practices in Software Configuration Management
 
-This repository was created as part of the SWE 442 homework assignment.  
-It demonstrates version control, branching, and change management using GitHub.
+- Use version control tools like Git.
+- Commit frequently with clear messages.
+- Use branches for new features or fixes.
+- Review and test before merging.
+- Track and resolve issues systematically.
